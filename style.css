@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/004/216/831/original/3d-world-news-background-loop-free-video.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+   
+}
+
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-family: 'Oswald';
+    font-weight: bolder;
+}
+
+h2{
+    margin-left: 45px;
+    color: white;
+    font-family: 'Oswald';
+    line-height: 30px;
+    font-size: 50px;
+    font-weight: bolder ;
+    text-shadow: 5px 5px 10px #d8d8d8e3;
+}
+
+h3{
+    margin-left: 20px;
+    color: white;
+    font-family: 'Oswald';
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 10px #d8d8d8e3;
+}
+
+.well{
+    width:180px;
+    height:180px ;
+    margin-left: 60px;
+    border: 10px solid blue;
+    border-radius:50%;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #4b82e9;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+ul{
+    color: aliceblue;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25.7px;
+}
+
+a:hover{
+    color: rgb(255, 142, 61);
+    text-decoration: underline;
+}
+
+/* business */
+
+.well2{
+    width:400;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid rgb(0, 182, 238);
+    border-radius:50% 20px 30px 10px;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #5f9baa;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+.well3{
+    width:400;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid rgb(95, 139, 175);
+    border-radius:50px 20px 30px 10px;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #a2a6a7;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+p{
+    color: #ccc;
+    font-size: 30px;
+}
+
+button{
+    margin: 0;
+    position: absolute;
+    background: transparent;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: 3px solid whitesmoke;
+    border-radius:50px ;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 5px 5px 5px #a2a6a7;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+
+/* health */
+
+.list1{
+    font-size: 30px;
+}
+
+/*Wather*/
+
+.well4{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid brown;
+    border-radius: 20px 20px 90px 10px;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 5px 15px 10px #8ce5fc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
